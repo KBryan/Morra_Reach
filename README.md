@@ -1,2 +1,2 @@
 # Morra_Reach
-Morra Game in Reach with Interactive Interface
+Morra Game in Reach with Interactive Test Runner
